@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"code.google.com/p/goprotobuf/proto"
-	"github.com/sbinet/pb-example/example"
+	"github.com/sbinet/go-pb-example/example"
 )
 
 func main() {
